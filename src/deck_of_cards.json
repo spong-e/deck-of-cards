@@ -1,0 +1,316 @@
+[
+    {
+      "suit": "hearts",
+      "value": 2,
+      "suitOrder": 3,
+      "cardOrder": 1
+    },
+    {
+      "suit": "hearts",
+      "value": 3
+      ,
+      "suitOrder": 3,
+      "cardOrder": 2
+    },
+    {
+      "suit": "hearts",
+      "value": 4,
+      "suitOrder": 3,
+      "cardOrder": 3
+    },
+    {
+      "suit": "hearts",
+      "value": 5
+      ,
+      "suitOrder": 3,
+      "cardOrder": 4
+    },
+    {
+      "suit": "hearts",
+      "value": 6,
+      "suitOrder": 3,
+      "cardOrder": 5
+    },
+    {
+      "suit": "hearts",
+      "value": 7,
+      "suitOrder": 3,
+      "cardOrder": 6
+    },
+    {
+      "suit": "hearts",
+      "value": 8,
+      "suitOrder": 3,
+      "cardOrder": 7
+    },
+    {
+      "suit": "hearts",
+      "value": 9,
+      "suitOrder": 3,
+      "cardOrder": 8
+    },
+    {
+      "suit": "hearts",
+      "value": 10,
+      "suitOrder": 3,
+      "cardOrder": 9
+    },
+    {
+      "suit": "hearts",
+      "value": "Jack",
+      "suitOrder": 3,
+      "cardOrder": 10
+    },
+    {
+      "suit": "hearts",
+      "value": "Queen",
+      "suitOrder": 3,
+      "cardOrder": 11
+    },
+    {
+      "suit": "hearts",
+      "value": "King",
+      "suitOrder": 3,
+      "cardOrder": 12
+    },
+    {
+      "suit": "hearts",
+      "value": "Ace",
+      "suitOrder": 3,
+      "cardOrder": 13
+    },
+    {
+      "suit": "diamonds",
+      "value": 2,
+      "suitOrder": 4,
+      "cardOrder": 1
+    },
+    {
+      "suit": "diamonds",
+      "value": 3,
+      "suitOrder": 4,
+      "cardOrder": 2
+    },
+    {
+      "suit": "diamonds",
+      "value": 4,
+      "suitOrder": 4,
+      "cardOrder": 3
+    },
+    {
+      "suit": "diamonds",
+      "value": 5,
+      "suitOrder": 4,
+      "cardOrder": 4
+    },
+    {
+      "suit": "diamonds",
+      "value": 6,
+      "suitOrder": 4,
+      "cardOrder": 5
+    },
+    {
+      "suit": "diamonds",
+      "value": 7,
+      "suitOrder": 4,
+      "cardOrder": 6
+    },
+    {
+      "suit": "diamonds",
+      "value": 8,
+      "suitOrder": 4,
+      "cardOrder": 7
+    },
+    {
+      "suit": "diamonds",
+      "value": 9,
+      "suitOrder": 4,
+      "cardOrder": 8
+    },
+    {
+      "suit": "diamonds",
+      "value": 10,
+      "suitOrder": 4,
+      "cardOrder": 9
+    },
+    {
+      "suit": "diamonds",
+      "value": "Jack",
+      "suitOrder": 4,
+      "cardOrder": 10
+    },
+    {
+      "suit": "diamonds",
+      "value": "Queen",
+      "suitOrder": 4,
+      "cardOrder": 11
+    },
+    {
+      "suit": "diamonds",
+      "value": "King",
+      "suitOrder": 4,
+      "cardOrder": 12
+    },
+    {
+      "suit": "diamonds",
+      "value": "Ace",
+      "suitOrder": 4,
+      "cardOrder": 13
+    },
+    {
+      "suit": "clubs",
+      "value": 2,
+      "suitOrder": 1,
+      "cardOrder": 1
+    },
+    {
+      "suit": "clubs",
+      "value": 3,
+      "suitOrder": 1,
+      "cardOrder": 2
+    },
+    {
+      "suit": "clubs",
+      "value": 4,
+      "suitOrder": 1,
+      "cardOrder": 3
+    },
+    {
+      "suit": "clubs",
+      "value": 5,
+      "suitOrder": 1,
+      "cardOrder": 4
+    },
+    {
+      "suit": "clubs",
+      "value": 6,
+      "suitOrder": 1,
+      "cardOrder": 5
+    },
+    {
+      "suit": "clubs",
+      "value": 7,
+      "suitOrder": 1,
+      "cardOrder": 6
+    },
+    {
+      "suit": "clubs",
+      "value": 8,
+      "suitOrder": 1,
+      "cardOrder": 7
+    },
+    {
+      "suit": "clubs",
+      "value": 9,
+      "suitOrder": 1,
+      "cardOrder": 8
+    },
+    {
+      "suit": "clubs",
+      "value": 10,
+      "suitOrder": 1,
+      "cardOrder": 9
+    },
+    {
+      "suit": "clubs",
+      "value": "Jack",
+      "suitOrder": 1,
+      "cardOrder": 10
+    },
+    {
+      "suit": "clubs",
+      "value": "Queen",
+      "suitOrder": 1,
+      "cardOrder": 11
+    },
+    {
+      "suit": "clubs",
+      "value": "King",
+      "suitOrder": 1,
+      "cardOrder": 12
+    },
+    {
+      "suit": "clubs",
+      "value": "Ace",
+      "suitOrder": 1,
+      "cardOrder": 13
+    },
+    {
+      "suit": "spades",
+      "value": 2,
+      "suitOrder": 2,
+      "cardOrder": 1
+    },
+    {
+      "suit": "spades",
+      "value": 3,
+      "suitOrder": 2,
+      "cardOrder": 2
+    },
+    {
+      "suit": "spades",
+      "value": 4,
+      "suitOrder": 2,
+      "cardOrder": 3
+    },
+    {
+      "suit": "spades",
+      "value": 5,
+      "suitOrder": 2,
+      "cardOrder": 4
+    },
+    {
+      "suit": "spades",
+      "value": 6,
+      "suitOrder": 2,
+      "cardOrder": 5
+    },
+    {
+      "suit": "spades",
+      "value": 7,
+      "suitOrder": 2,
+      "cardOrder": 6
+    },
+    {
+      "suit": "spades",
+      "value": 8,
+      "suitOrder": 2,
+      "cardOrder": 7
+    },
+    {
+      "suit": "spades",
+      "value": 9,
+      "suitOrder": 2,
+      "cardOrder": 8
+    },
+    {
+      "suit": "spades",
+      "value": 10,
+      "suitOrder": 2,
+      "cardOrder": 9
+    },
+    {
+      "suit": "spades",
+      "value": "Jack",
+      "suitOrder": 2,
+      "cardOrder": 10
+    },
+    {
+      "suit": "spades",
+      "value": "Queen",
+      "suitOrder": 2,
+      "cardOrder": 11
+    },
+    {
+      "suit": "spades",
+      "value": "King",
+      "suitOrder": 2,
+      "cardOrder": 12
+    },
+    {
+      "suit": "spades",
+      "value": "Ace",
+      "suitOrder": 2,
+      "cardOrder": 13
+    }
+  ]
