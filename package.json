@@ -1,7 +1,7 @@
 {
   "name": "deck-of-cards",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@babel/eslint-parser": "^7.14.7",
     "@babel/preset-env": "^7.14.7",
